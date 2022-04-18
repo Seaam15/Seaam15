@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Seaam15
+- 👀 I’m interested in programming and making interactive websites
+- 🌱 I’m currently learning programming on HTML CSS & Javascript
+- 📫 How to reach me: e-mail: seaamipsc2020@outlook.com
